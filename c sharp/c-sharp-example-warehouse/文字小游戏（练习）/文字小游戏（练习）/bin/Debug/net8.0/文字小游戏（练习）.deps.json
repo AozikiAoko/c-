@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "文字小游戏（练习）/1.0.0": {
+        "dependencies": {
+          "game模板": "1.0.0"
+        },
+        "runtime": {
+          "文字小游戏（练习）.dll": {}
+        }
+      },
+      "game模板/1.0.0": {
+        "runtime": {
+          "game模板.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "文字小游戏（练习）/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "game模板/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

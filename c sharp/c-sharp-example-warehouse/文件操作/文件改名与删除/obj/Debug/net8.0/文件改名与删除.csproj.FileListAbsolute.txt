@@ -1,0 +1,14 @@
+D:\c sharp\文件操作\文件改名与删除\bin\Debug\net8.0\文件改名与删除.exe
+D:\c sharp\文件操作\文件改名与删除\bin\Debug\net8.0\文件改名与删除.deps.json
+D:\c sharp\文件操作\文件改名与删除\bin\Debug\net8.0\文件改名与删除.runtimeconfig.json
+D:\c sharp\文件操作\文件改名与删除\bin\Debug\net8.0\文件改名与删除.dll
+D:\c sharp\文件操作\文件改名与删除\bin\Debug\net8.0\文件改名与删除.pdb
+D:\c sharp\文件操作\文件改名与删除\obj\Debug\net8.0\文件改名与删除.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp\文件操作\文件改名与删除\obj\Debug\net8.0\文件改名与删除.AssemblyInfoInputs.cache
+D:\c sharp\文件操作\文件改名与删除\obj\Debug\net8.0\文件改名与删除.AssemblyInfo.cs
+D:\c sharp\文件操作\文件改名与删除\obj\Debug\net8.0\文件改名与删除.csproj.CoreCompileInputs.cache
+D:\c sharp\文件操作\文件改名与删除\obj\Debug\net8.0\文件改名与删除.dll
+D:\c sharp\文件操作\文件改名与删除\obj\Debug\net8.0\refint\文件改名与删除.dll
+D:\c sharp\文件操作\文件改名与删除\obj\Debug\net8.0\文件改名与删除.pdb
+D:\c sharp\文件操作\文件改名与删除\obj\Debug\net8.0\文件改名与删除.genruntimeconfig.cache
+D:\c sharp\文件操作\文件改名与删除\obj\Debug\net8.0\ref\文件改名与删除.dll

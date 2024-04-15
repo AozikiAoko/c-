@@ -1,0 +1,14 @@
+D:\code\c sharp\c-sharp-example-warehouse\奶茶店\奶茶店\bin\Debug\net8.0\奶茶店.exe
+D:\code\c sharp\c-sharp-example-warehouse\奶茶店\奶茶店\bin\Debug\net8.0\奶茶店.deps.json
+D:\code\c sharp\c-sharp-example-warehouse\奶茶店\奶茶店\bin\Debug\net8.0\奶茶店.runtimeconfig.json
+D:\code\c sharp\c-sharp-example-warehouse\奶茶店\奶茶店\bin\Debug\net8.0\奶茶店.dll
+D:\code\c sharp\c-sharp-example-warehouse\奶茶店\奶茶店\bin\Debug\net8.0\奶茶店.pdb
+D:\code\c sharp\c-sharp-example-warehouse\奶茶店\奶茶店\obj\Debug\net8.0\奶茶店.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c sharp\c-sharp-example-warehouse\奶茶店\奶茶店\obj\Debug\net8.0\奶茶店.AssemblyInfoInputs.cache
+D:\code\c sharp\c-sharp-example-warehouse\奶茶店\奶茶店\obj\Debug\net8.0\奶茶店.AssemblyInfo.cs
+D:\code\c sharp\c-sharp-example-warehouse\奶茶店\奶茶店\obj\Debug\net8.0\奶茶店.csproj.CoreCompileInputs.cache
+D:\code\c sharp\c-sharp-example-warehouse\奶茶店\奶茶店\obj\Debug\net8.0\奶茶店.dll
+D:\code\c sharp\c-sharp-example-warehouse\奶茶店\奶茶店\obj\Debug\net8.0\refint\奶茶店.dll
+D:\code\c sharp\c-sharp-example-warehouse\奶茶店\奶茶店\obj\Debug\net8.0\奶茶店.pdb
+D:\code\c sharp\c-sharp-example-warehouse\奶茶店\奶茶店\obj\Debug\net8.0\奶茶店.genruntimeconfig.cache
+D:\code\c sharp\c-sharp-example-warehouse\奶茶店\奶茶店\obj\Debug\net8.0\ref\奶茶店.dll

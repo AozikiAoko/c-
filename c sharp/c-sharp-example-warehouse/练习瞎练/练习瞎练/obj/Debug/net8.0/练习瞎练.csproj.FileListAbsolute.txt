@@ -1,0 +1,14 @@
+D:\code\c sharp\c-sharp-example-warehouse\练习瞎练\练习瞎练\bin\Debug\net8.0\练习瞎练.exe
+D:\code\c sharp\c-sharp-example-warehouse\练习瞎练\练习瞎练\bin\Debug\net8.0\练习瞎练.deps.json
+D:\code\c sharp\c-sharp-example-warehouse\练习瞎练\练习瞎练\bin\Debug\net8.0\练习瞎练.runtimeconfig.json
+D:\code\c sharp\c-sharp-example-warehouse\练习瞎练\练习瞎练\bin\Debug\net8.0\练习瞎练.dll
+D:\code\c sharp\c-sharp-example-warehouse\练习瞎练\练习瞎练\bin\Debug\net8.0\练习瞎练.pdb
+D:\code\c sharp\c-sharp-example-warehouse\练习瞎练\练习瞎练\obj\Debug\net8.0\练习瞎练.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c sharp\c-sharp-example-warehouse\练习瞎练\练习瞎练\obj\Debug\net8.0\练习瞎练.AssemblyInfoInputs.cache
+D:\code\c sharp\c-sharp-example-warehouse\练习瞎练\练习瞎练\obj\Debug\net8.0\练习瞎练.AssemblyInfo.cs
+D:\code\c sharp\c-sharp-example-warehouse\练习瞎练\练习瞎练\obj\Debug\net8.0\练习瞎练.csproj.CoreCompileInputs.cache
+D:\code\c sharp\c-sharp-example-warehouse\练习瞎练\练习瞎练\obj\Debug\net8.0\练习瞎练.dll
+D:\code\c sharp\c-sharp-example-warehouse\练习瞎练\练习瞎练\obj\Debug\net8.0\refint\练习瞎练.dll
+D:\code\c sharp\c-sharp-example-warehouse\练习瞎练\练习瞎练\obj\Debug\net8.0\练习瞎练.pdb
+D:\code\c sharp\c-sharp-example-warehouse\练习瞎练\练习瞎练\obj\Debug\net8.0\练习瞎练.genruntimeconfig.cache
+D:\code\c sharp\c-sharp-example-warehouse\练习瞎练\练习瞎练\obj\Debug\net8.0\ref\练习瞎练.dll

@@ -1,0 +1,14 @@
+D:\c sharp\方法的使用\方法的使用\bin\Debug\net8.0\方法的使用.exe
+D:\c sharp\方法的使用\方法的使用\bin\Debug\net8.0\方法的使用.deps.json
+D:\c sharp\方法的使用\方法的使用\bin\Debug\net8.0\方法的使用.runtimeconfig.json
+D:\c sharp\方法的使用\方法的使用\bin\Debug\net8.0\方法的使用.dll
+D:\c sharp\方法的使用\方法的使用\bin\Debug\net8.0\方法的使用.pdb
+D:\c sharp\方法的使用\方法的使用\obj\Debug\net8.0\方法的使用.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp\方法的使用\方法的使用\obj\Debug\net8.0\方法的使用.AssemblyInfoInputs.cache
+D:\c sharp\方法的使用\方法的使用\obj\Debug\net8.0\方法的使用.AssemblyInfo.cs
+D:\c sharp\方法的使用\方法的使用\obj\Debug\net8.0\方法的使用.csproj.CoreCompileInputs.cache
+D:\c sharp\方法的使用\方法的使用\obj\Debug\net8.0\方法的使用.dll
+D:\c sharp\方法的使用\方法的使用\obj\Debug\net8.0\refint\方法的使用.dll
+D:\c sharp\方法的使用\方法的使用\obj\Debug\net8.0\方法的使用.pdb
+D:\c sharp\方法的使用\方法的使用\obj\Debug\net8.0\方法的使用.genruntimeconfig.cache
+D:\c sharp\方法的使用\方法的使用\obj\Debug\net8.0\ref\方法的使用.dll

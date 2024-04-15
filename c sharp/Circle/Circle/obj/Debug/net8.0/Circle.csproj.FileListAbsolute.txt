@@ -1,0 +1,14 @@
+D:\code\c sharp\Circle\Circle\bin\Debug\net8.0\Circle.exe
+D:\code\c sharp\Circle\Circle\bin\Debug\net8.0\Circle.deps.json
+D:\code\c sharp\Circle\Circle\bin\Debug\net8.0\Circle.runtimeconfig.json
+D:\code\c sharp\Circle\Circle\bin\Debug\net8.0\Circle.dll
+D:\code\c sharp\Circle\Circle\bin\Debug\net8.0\Circle.pdb
+D:\code\c sharp\Circle\Circle\obj\Debug\net8.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c sharp\Circle\Circle\obj\Debug\net8.0\Circle.AssemblyInfoInputs.cache
+D:\code\c sharp\Circle\Circle\obj\Debug\net8.0\Circle.AssemblyInfo.cs
+D:\code\c sharp\Circle\Circle\obj\Debug\net8.0\Circle.csproj.CoreCompileInputs.cache
+D:\code\c sharp\Circle\Circle\obj\Debug\net8.0\Circle.dll
+D:\code\c sharp\Circle\Circle\obj\Debug\net8.0\refint\Circle.dll
+D:\code\c sharp\Circle\Circle\obj\Debug\net8.0\Circle.pdb
+D:\code\c sharp\Circle\Circle\obj\Debug\net8.0\Circle.genruntimeconfig.cache
+D:\code\c sharp\Circle\Circle\obj\Debug\net8.0\ref\Circle.dll

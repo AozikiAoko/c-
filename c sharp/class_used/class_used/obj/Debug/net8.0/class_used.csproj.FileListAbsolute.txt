@@ -1,0 +1,14 @@
+D:\code\c sharp\class_used\class_used\bin\Debug\net8.0\class_used.exe
+D:\code\c sharp\class_used\class_used\bin\Debug\net8.0\class_used.deps.json
+D:\code\c sharp\class_used\class_used\bin\Debug\net8.0\class_used.runtimeconfig.json
+D:\code\c sharp\class_used\class_used\bin\Debug\net8.0\class_used.dll
+D:\code\c sharp\class_used\class_used\bin\Debug\net8.0\class_used.pdb
+D:\code\c sharp\class_used\class_used\obj\Debug\net8.0\class_used.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c sharp\class_used\class_used\obj\Debug\net8.0\class_used.AssemblyInfoInputs.cache
+D:\code\c sharp\class_used\class_used\obj\Debug\net8.0\class_used.AssemblyInfo.cs
+D:\code\c sharp\class_used\class_used\obj\Debug\net8.0\class_used.csproj.CoreCompileInputs.cache
+D:\code\c sharp\class_used\class_used\obj\Debug\net8.0\class_used.dll
+D:\code\c sharp\class_used\class_used\obj\Debug\net8.0\refint\class_used.dll
+D:\code\c sharp\class_used\class_used\obj\Debug\net8.0\class_used.pdb
+D:\code\c sharp\class_used\class_used\obj\Debug\net8.0\class_used.genruntimeconfig.cache
+D:\code\c sharp\class_used\class_used\obj\Debug\net8.0\ref\class_used.dll

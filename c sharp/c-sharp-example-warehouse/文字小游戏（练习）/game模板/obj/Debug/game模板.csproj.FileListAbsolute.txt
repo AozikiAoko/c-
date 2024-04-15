@@ -1,0 +1,6 @@
+D:\c sharp\文字小游戏（练习）\game模板\bin\Debug\game模板.dll
+D:\c sharp\文字小游戏（练习）\game模板\bin\Debug\game模板.pdb
+D:\c sharp\文字小游戏（练习）\game模板\obj\Debug\game模板.csproj.AssemblyReference.cache
+D:\c sharp\文字小游戏（练习）\game模板\obj\Debug\game模板.csproj.CoreCompileInputs.cache
+D:\c sharp\文字小游戏（练习）\game模板\obj\Debug\game模板.dll
+D:\c sharp\文字小游戏（练习）\game模板\obj\Debug\game模板.pdb

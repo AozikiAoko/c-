@@ -1,0 +1,11 @@
+D:\c sharp\文件操作\delete\bin\Debug\net8.0\delete.deps.json
+D:\c sharp\文件操作\delete\bin\Debug\net8.0\delete.dll
+D:\c sharp\文件操作\delete\bin\Debug\net8.0\delete.pdb
+D:\c sharp\文件操作\delete\obj\Debug\net8.0\delete.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp\文件操作\delete\obj\Debug\net8.0\delete.AssemblyInfoInputs.cache
+D:\c sharp\文件操作\delete\obj\Debug\net8.0\delete.AssemblyInfo.cs
+D:\c sharp\文件操作\delete\obj\Debug\net8.0\delete.csproj.CoreCompileInputs.cache
+D:\c sharp\文件操作\delete\obj\Debug\net8.0\delete.dll
+D:\c sharp\文件操作\delete\obj\Debug\net8.0\refint\delete.dll
+D:\c sharp\文件操作\delete\obj\Debug\net8.0\delete.pdb
+D:\c sharp\文件操作\delete\obj\Debug\net8.0\ref\delete.dll

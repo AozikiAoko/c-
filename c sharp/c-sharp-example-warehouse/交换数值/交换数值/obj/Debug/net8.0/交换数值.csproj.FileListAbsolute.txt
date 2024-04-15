@@ -1,0 +1,14 @@
+D:\c sharp\交换数值\交换数值\bin\Debug\net8.0\交换数值.exe
+D:\c sharp\交换数值\交换数值\bin\Debug\net8.0\交换数值.deps.json
+D:\c sharp\交换数值\交换数值\bin\Debug\net8.0\交换数值.runtimeconfig.json
+D:\c sharp\交换数值\交换数值\bin\Debug\net8.0\交换数值.dll
+D:\c sharp\交换数值\交换数值\bin\Debug\net8.0\交换数值.pdb
+D:\c sharp\交换数值\交换数值\obj\Debug\net8.0\交换数值.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp\交换数值\交换数值\obj\Debug\net8.0\交换数值.AssemblyInfoInputs.cache
+D:\c sharp\交换数值\交换数值\obj\Debug\net8.0\交换数值.AssemblyInfo.cs
+D:\c sharp\交换数值\交换数值\obj\Debug\net8.0\交换数值.csproj.CoreCompileInputs.cache
+D:\c sharp\交换数值\交换数值\obj\Debug\net8.0\交换数值.dll
+D:\c sharp\交换数值\交换数值\obj\Debug\net8.0\refint\交换数值.dll
+D:\c sharp\交换数值\交换数值\obj\Debug\net8.0\交换数值.pdb
+D:\c sharp\交换数值\交换数值\obj\Debug\net8.0\交换数值.genruntimeconfig.cache
+D:\c sharp\交换数值\交换数值\obj\Debug\net8.0\ref\交换数值.dll

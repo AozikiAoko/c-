@@ -1,0 +1,14 @@
+D:\code\c sharp\乱搞哦\乱搞哦\bin\Debug\net8.0\乱搞哦.exe
+D:\code\c sharp\乱搞哦\乱搞哦\bin\Debug\net8.0\乱搞哦.deps.json
+D:\code\c sharp\乱搞哦\乱搞哦\bin\Debug\net8.0\乱搞哦.runtimeconfig.json
+D:\code\c sharp\乱搞哦\乱搞哦\bin\Debug\net8.0\乱搞哦.dll
+D:\code\c sharp\乱搞哦\乱搞哦\bin\Debug\net8.0\乱搞哦.pdb
+D:\code\c sharp\乱搞哦\乱搞哦\obj\Debug\net8.0\乱搞哦.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c sharp\乱搞哦\乱搞哦\obj\Debug\net8.0\乱搞哦.AssemblyInfoInputs.cache
+D:\code\c sharp\乱搞哦\乱搞哦\obj\Debug\net8.0\乱搞哦.AssemblyInfo.cs
+D:\code\c sharp\乱搞哦\乱搞哦\obj\Debug\net8.0\乱搞哦.csproj.CoreCompileInputs.cache
+D:\code\c sharp\乱搞哦\乱搞哦\obj\Debug\net8.0\乱搞哦.dll
+D:\code\c sharp\乱搞哦\乱搞哦\obj\Debug\net8.0\refint\乱搞哦.dll
+D:\code\c sharp\乱搞哦\乱搞哦\obj\Debug\net8.0\乱搞哦.pdb
+D:\code\c sharp\乱搞哦\乱搞哦\obj\Debug\net8.0\乱搞哦.genruntimeconfig.cache
+D:\code\c sharp\乱搞哦\乱搞哦\obj\Debug\net8.0\ref\乱搞哦.dll

@@ -1,0 +1,14 @@
+D:\code\c sharp\c-sharp-example-warehouse\大象放冰箱\大象放冰箱\bin\Debug\net8.0\大象放冰箱.exe
+D:\code\c sharp\c-sharp-example-warehouse\大象放冰箱\大象放冰箱\bin\Debug\net8.0\大象放冰箱.deps.json
+D:\code\c sharp\c-sharp-example-warehouse\大象放冰箱\大象放冰箱\bin\Debug\net8.0\大象放冰箱.runtimeconfig.json
+D:\code\c sharp\c-sharp-example-warehouse\大象放冰箱\大象放冰箱\bin\Debug\net8.0\大象放冰箱.dll
+D:\code\c sharp\c-sharp-example-warehouse\大象放冰箱\大象放冰箱\bin\Debug\net8.0\大象放冰箱.pdb
+D:\code\c sharp\c-sharp-example-warehouse\大象放冰箱\大象放冰箱\obj\Debug\net8.0\大象放冰箱.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c sharp\c-sharp-example-warehouse\大象放冰箱\大象放冰箱\obj\Debug\net8.0\大象放冰箱.AssemblyInfoInputs.cache
+D:\code\c sharp\c-sharp-example-warehouse\大象放冰箱\大象放冰箱\obj\Debug\net8.0\大象放冰箱.AssemblyInfo.cs
+D:\code\c sharp\c-sharp-example-warehouse\大象放冰箱\大象放冰箱\obj\Debug\net8.0\大象放冰箱.csproj.CoreCompileInputs.cache
+D:\code\c sharp\c-sharp-example-warehouse\大象放冰箱\大象放冰箱\obj\Debug\net8.0\大象放冰箱.dll
+D:\code\c sharp\c-sharp-example-warehouse\大象放冰箱\大象放冰箱\obj\Debug\net8.0\refint\大象放冰箱.dll
+D:\code\c sharp\c-sharp-example-warehouse\大象放冰箱\大象放冰箱\obj\Debug\net8.0\大象放冰箱.pdb
+D:\code\c sharp\c-sharp-example-warehouse\大象放冰箱\大象放冰箱\obj\Debug\net8.0\大象放冰箱.genruntimeconfig.cache
+D:\code\c sharp\c-sharp-example-warehouse\大象放冰箱\大象放冰箱\obj\Debug\net8.0\ref\大象放冰箱.dll

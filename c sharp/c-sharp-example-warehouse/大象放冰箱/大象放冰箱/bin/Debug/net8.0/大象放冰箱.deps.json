@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "大象放冰箱/1.0.0": {
+        "runtime": {
+          "大象放冰箱.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "大象放冰箱/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

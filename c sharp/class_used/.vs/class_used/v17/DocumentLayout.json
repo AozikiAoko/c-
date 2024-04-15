@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\c sharp\\class_used\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA8867FF-BF95-421D-AD6B-F4128ED963C1}|class_used\\class_used.csproj|d:\\code\\c sharp\\class_used\\class_used\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA8867FF-BF95-421D-AD6B-F4128ED963C1}|class_used\\class_used.csproj|solutionrelative:class_used\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\c sharp\\class_used\\class_used\\Program.cs",
+              "RelativeDocumentMoniker": "class_used\\Program.cs",
+              "ToolTip": "D:\\code\\c sharp\\class_used\\class_used\\Program.cs",
+              "RelativeToolTip": "class_used\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T00:02:14.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

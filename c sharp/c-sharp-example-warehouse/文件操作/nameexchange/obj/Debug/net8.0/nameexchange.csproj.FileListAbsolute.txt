@@ -1,0 +1,11 @@
+D:\c sharp\文件操作\nameexchange\bin\Debug\net8.0\nameexchange.deps.json
+D:\c sharp\文件操作\nameexchange\bin\Debug\net8.0\nameexchange.dll
+D:\c sharp\文件操作\nameexchange\bin\Debug\net8.0\nameexchange.pdb
+D:\c sharp\文件操作\nameexchange\obj\Debug\net8.0\nameexchange.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp\文件操作\nameexchange\obj\Debug\net8.0\nameexchange.AssemblyInfoInputs.cache
+D:\c sharp\文件操作\nameexchange\obj\Debug\net8.0\nameexchange.AssemblyInfo.cs
+D:\c sharp\文件操作\nameexchange\obj\Debug\net8.0\nameexchange.csproj.CoreCompileInputs.cache
+D:\c sharp\文件操作\nameexchange\obj\Debug\net8.0\nameexchange.dll
+D:\c sharp\文件操作\nameexchange\obj\Debug\net8.0\refint\nameexchange.dll
+D:\c sharp\文件操作\nameexchange\obj\Debug\net8.0\nameexchange.pdb
+D:\c sharp\文件操作\nameexchange\obj\Debug\net8.0\ref\nameexchange.dll

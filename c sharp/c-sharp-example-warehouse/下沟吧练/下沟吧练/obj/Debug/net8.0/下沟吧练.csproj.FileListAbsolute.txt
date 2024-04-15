@@ -1,0 +1,14 @@
+D:\c sharp\下沟吧练\下沟吧练\bin\Debug\net8.0\下沟吧练.exe
+D:\c sharp\下沟吧练\下沟吧练\bin\Debug\net8.0\下沟吧练.deps.json
+D:\c sharp\下沟吧练\下沟吧练\bin\Debug\net8.0\下沟吧练.runtimeconfig.json
+D:\c sharp\下沟吧练\下沟吧练\bin\Debug\net8.0\下沟吧练.dll
+D:\c sharp\下沟吧练\下沟吧练\bin\Debug\net8.0\下沟吧练.pdb
+D:\c sharp\下沟吧练\下沟吧练\obj\Debug\net8.0\下沟吧练.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp\下沟吧练\下沟吧练\obj\Debug\net8.0\下沟吧练.AssemblyInfoInputs.cache
+D:\c sharp\下沟吧练\下沟吧练\obj\Debug\net8.0\下沟吧练.AssemblyInfo.cs
+D:\c sharp\下沟吧练\下沟吧练\obj\Debug\net8.0\下沟吧练.csproj.CoreCompileInputs.cache
+D:\c sharp\下沟吧练\下沟吧练\obj\Debug\net8.0\下沟吧练.dll
+D:\c sharp\下沟吧练\下沟吧练\obj\Debug\net8.0\refint\下沟吧练.dll
+D:\c sharp\下沟吧练\下沟吧练\obj\Debug\net8.0\下沟吧练.pdb
+D:\c sharp\下沟吧练\下沟吧练\obj\Debug\net8.0\下沟吧练.genruntimeconfig.cache
+D:\c sharp\下沟吧练\下沟吧练\obj\Debug\net8.0\ref\下沟吧练.dll

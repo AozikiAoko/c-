@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "鲁棒性强的输入程序/1.0.0": {
+        "runtime": {
+          "鲁棒性强的输入程序.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "鲁棒性强的输入程序/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

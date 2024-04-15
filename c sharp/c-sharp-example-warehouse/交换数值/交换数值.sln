@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "交换数值", "交换数值\交换数值.csproj", "{0830EA51-4E0E-4371-8FAB-E146303DD300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0830EA51-4E0E-4371-8FAB-E146303DD300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0830EA51-4E0E-4371-8FAB-E146303DD300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0830EA51-4E0E-4371-8FAB-E146303DD300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0830EA51-4E0E-4371-8FAB-E146303DD300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3DE632E-5CC8-4896-B91F-F8867DB2E72C}
+	EndGlobalSection
+EndGlobal
